@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Salut l'ami 👋
+🇫🇷 Dev
 <!--
 **MinosdeFrance/MinosdeFrance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
